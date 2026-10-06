@@ -1,0 +1,192 @@
+[
+  {
+    "mode": "desktop",
+    "screen": 1,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 2,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 3,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 4,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 3,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 4,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 5,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 6,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 2,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 3,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 4,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 5,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 6,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 7,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 8,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 6,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "screen": 6,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "desktop",
+    "browser_back": true,
+    "reload_persistence": true,
+    "runtime_errors": []
+  },
+  {
+    "mode": "mobile",
+    "screen": 1,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 2,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 3,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 4,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 3,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 4,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 5,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 6,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 2,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 3,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 4,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 5,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 6,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 7,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 8,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 6,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "screen": 6,
+    "only_one_mounted": true
+  },
+  {
+    "mode": "mobile",
+    "browser_back": true,
+    "reload_persistence": true,
+    "runtime_errors": []
+  },
+  {
+    "mode": "narrow-mobile",
+    "viewport": "320x700",
+    "route_guard": true,
+    "empty_name_edit": true,
+    "style_deselection": true,
+    "loading_cancellation": true
+  }
+]
